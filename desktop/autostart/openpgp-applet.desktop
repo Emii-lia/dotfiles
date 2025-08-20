@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=OpenPGP Applet
+GenericName=Applet for OpenPGP text encryption
+Comment=Encrypt, Decrypt, Sign text from and to the clipboard
+Version=1.0
+Exec=/usr/bin/openpgp-applet
+Terminal=false
+Type=Application
+Categories=Utility;Security;TrayIcon
+Icon=/usr/share/perl5/auto/share/dist/OpenPGP_Applet/pixmaps/scalable/OpenPGP_Applet.svg
+Keywords=PGP;GnuPG;gpg;Encryption;Decryption;Privacy;Sign;key
+OnlyShowIn=GNOME;KDE;LXDE;LXQt;MATE;Razor;ROX;TDE;Unity;XFCE;EDE;Cinnamon;Pantheon;
+X-GNOME-Autostart-enabled=false
+Hidden=true

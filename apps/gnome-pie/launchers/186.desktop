@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Media player
+Exec=/usr/bin/gnome-pie -o 186
+Encoding=UTF-8
+Type=Application
+Icon=stock_unknown
+StartupWMClass=gnome-pie-186

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Categories=Game;
+Comment[en_US]=Penguins on your desktop
+Comment=Penguins on your desktop
+Exec=xpenguins --squish --nomenu &
+GenericName[en_US]=
+GenericName=
+Icon=xpenguins
+Keywords=penguins;
+MimeType=
+Name[en_US]=xpenguins
+Name=xpenguins
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

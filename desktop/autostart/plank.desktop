@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=plank
+Comment=plank dock
+Exec=plank
+Type=Application
+Terminal=false
+Hidden=false
+

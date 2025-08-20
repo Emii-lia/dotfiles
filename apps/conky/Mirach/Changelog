@@ -1,0 +1,32 @@
+Changelog
+--------------------------------------------------------
+Mirach - Conky Theme
+[ Scorpio Themes Pack ] 
+
+by Closebox73
+
+Social
+X		: https://twitter.com/closebox73
+Discord	: https://discord.com/users/1115644269802311750
+Github	: https://github.com/closebox73
+Pling	: https://pling.com/u/closebox73x
+--------------------------------------------------------
+
+v1.0
+date : 10 Jul 2022
+-	Initial release
+
+
+v1.6
+date : 12 Oct 2022
+-	Add override_uutf8_locale line
+-	Minimize archive size
+-	Some additional line in scripts
+
+
+v2.1
+date : 07 Oct 2023
+-	Add Changelog
+-	New weather.sh
+-	Add Fahrenheit version
+-	Some minor change
