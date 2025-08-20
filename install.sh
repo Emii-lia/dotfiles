@@ -1,3 +1,5 @@
+# Not Good at docs, but here goes nothing
+
 # This script installs and configures various dotfiles and applications for a personalized Linux environment.
 # Designed to be run on a Linux system with a Gnome desktop environment.
 # It sets up Zsh, Oh My Zsh, Gnome themes, fonts, wallpapers
